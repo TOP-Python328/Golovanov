@@ -1,5 +1,0 @@
-str1 = input("введи имя:")
-str2 = input("введи фамилию:")
-str3 = input("введи год рождения:")
-brth = 2023 - int(str3)
-print(str1 + " " + str2 + ", " + str(brth)) 
